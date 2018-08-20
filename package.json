@@ -1,0 +1,24 @@
+{
+  "name": "healthapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-fiks/healthApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-fiks/healthApp/issues"
+  },
+  "homepage": "https://github.com/m-fiks/healthApp#readme",
+  "dependencies": {
+    "concurrently": "^3.6.1",
+    "express": "^4.16.3"
+  }
+}
